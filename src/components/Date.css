@@ -1,0 +1,10 @@
+.date{
+    text-align: center;
+    font-size: 25px;
+    padding: 7px;
+    margin: auto;
+    background-color: yellow;
+    width: 90px;
+    border: 1px solid black;
+    margin-top: 2px;
+}

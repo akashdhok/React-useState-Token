@@ -1,0 +1,9 @@
+.Card{
+    justify-self: center;
+    display: flex;
+    flex-wrap: wrap;
+    border: 2px solid black;
+   border-radius: 20px;
+   background-color: aqua;
+   margin-top: 40px;
+}

@@ -1,0 +1,21 @@
+.newProduct_title{
+    font-size: 2rem;
+    
+}
+.newProduct_date{
+    font-size: 2rem;
+}
+.newProduct_title>input{
+    width: 200px;
+    height: 40px;
+}
+.newProduct_date>input{
+    width: 200px;
+    height: 40px;
+}
+.newProduct_btn>button{
+    background-color: aqua;
+    width: 200px;
+    height: 40px;
+    margin-top: 3rem;
+}
